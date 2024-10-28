@@ -79,6 +79,8 @@ The app must have the following functionalities
 - Roboto
 
 </details>
+> published code - ccbp publish RJSCP42KBV eligreet.ccbp.tech
+> published link - https://eligreet.ccbp.tech/
 
 > ### _Things to Keep in Mind_
 >
